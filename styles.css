@@ -21,6 +21,7 @@ body {
 .accordion {
     width: 65%;
     background-color: #fff;
+    opacity: .86;
     padding: 30px;
     border-radius: 30px;
 }
